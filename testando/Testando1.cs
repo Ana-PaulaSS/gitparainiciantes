@@ -6,7 +6,7 @@ namespace testando
 {
     class Testando1
     {
-        public double A;
+        public int A;
         public string nome;
     }
 }
